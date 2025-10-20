@@ -1,0 +1,15 @@
+# Personal Expense Tracker - Requirements
+# 
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+# 
+# Minimum Python version: 3.6+
+# 
+# Standard library modules used:
+# - csv: For reading and writing expense data
+# - os: For file operations
+# - datetime: For date validation
+# - typing: For type hints (Python 3.6+)
+
+# No packages to install - run directly with Python 3.6 or higher
+
